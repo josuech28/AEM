@@ -1,0 +1,12 @@
+These are some of the links with AEM material useful for a ramp up process:
+ 
+https://confluence.digitas.com/display/AdobeCoE/Adobe+Center+of+Excellence+Home
+https://docs.google.com/document/d/1by3kOSopvi39YM6GZmROlCuRJ5f9DtV5F-j6DLaTFrE/edit?usp=sharing
+https://docs.adobe.com/docs/en/cq/5-5/howto/installingcq.html
+https://docs.adobe.com/docs/en/aem/6-2/develop.html
+ 
+ 
+AEM related (Java, Sling, OSGi, servlets):
+http://docs.oracle.com/javaee/5/tutorial/doc/geysj.html
+http://sling.apache.org/documentation/the-sling-engine/architecture.html
+ 

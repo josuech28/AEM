@@ -1,0 +1,25 @@
+body {
+	width: 600px;
+	font-family: Gerogia, "TimesNewRoman";
+	background-color: white;
+
+}
+
+table {
+	border-spacing: 1px;
+	padding-left: 3px;
+	padding-right: 3px;
+	margin: 0px;
+}
+tr th {
+	background-color: #0099CC;
+}
+
+tr.odd-line td {
+	background-color: #00CCCC;
+}
+
+hr {
+	border: 1px dotted gray;
+	width: 80%;
+}

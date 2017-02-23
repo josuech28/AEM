@@ -1,0 +1,6 @@
+1) On the host file system, create a directory and name it author.
+2) Copy the cq5-<version>.jar file into author/.
+3) Rename cq5-<version>.jar to cq5-a  uthor-4502.  jar.
+4) Copy a valid license.properties file into author/.
+5) Run it with:  java -XX:MaxPermSize=128m -Xmx384M -jar cq5-author- 4502.jar.
+6) Or if using a GUI file\system explorer, double\click the cq5-author-4502.jar file.
